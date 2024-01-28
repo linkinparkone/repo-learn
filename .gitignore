@@ -1,1 +1,4 @@
 other.log
+access.log
+access.log other.log
+temp/
